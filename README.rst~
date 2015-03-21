@@ -6,7 +6,6 @@ MapGeist
 As a Python library/Mind-mapping tool, MapGeist aims to exploit concepts from the domains of **Text Mining** and **Graph Theory** to provide a comprehensive means of understanding/exploring text graphically.
 
 [See docs/methodology.pdf for how it works.]
-
 [See Generated_maps to see a few sample Mind-Maps generated using MapGeist]
 
 Dependencies
