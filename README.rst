@@ -7,7 +7,9 @@ As a Python library/Mind-mapping tool, MapGeist aims to exploit concepts from th
 
 [See docs/methodology.pdf for how it works.]
 
-[See Generated_maps to see a few sample Mind-Maps generated using MapGeist]
+[See Generated_maps to see a few sample Mind-Maps generated using MapGeist.]
+
+[See Scripts for some handy Python-scripts to draw MindMaps using Wikipedia/Twitter.]
 
 Dependencies
 ------------
